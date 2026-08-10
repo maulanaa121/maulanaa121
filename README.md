@@ -11,23 +11,29 @@ responsive web applications.
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
 ### ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🎨 Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
@@ -38,13 +44,7 @@ responsive web applications.
 
 ---
 
-## 📊 GitHub Stats
-
-![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanaa121&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-- 📧 Email: fm886211@gmail.com
+- 📧 Email: [fm886211@gmail.com](mailto:fm886211@gmail.com)
 - 💻 GitHub: https://github.com/maulanaa121
