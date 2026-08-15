@@ -18,7 +18,7 @@ responsive web applications.
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,express" />
 </p>
 
 ### 🗄️ Database
