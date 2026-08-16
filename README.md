@@ -27,6 +27,12 @@ responsive web applications.
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+### 🐳 Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,postman" />
+</p>
+
 ### 🎨 Design
 
 <p align="left">
@@ -37,14 +43,14 @@ responsive web applications.
 
 ## 📌 Featured Projects
 
-- 🚗 Rental Mobil Website
-- 🏘️ Desa Bedukan Website
-- 🛒 E-Commerce Website
-- 💼 Personal Portfolio
+* 🚗 Rental Mobil Website
+* 🏘️ Desa Bedukan Website
+* 🛒 E-Commerce Website
+* 💼 Personal Portfolio
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: [fm886211@gmail.com](mailto:fm886211@gmail.com)
-- 💻 GitHub: https://github.com/maulanaa121
+* 📧 Email: [fm886211@gmail.com](mailto:fm886211@gmail.com)
+* 💻 GitHub: https://github.com/maulanaa121
