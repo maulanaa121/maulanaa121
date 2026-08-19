@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fajar Maulana
+# Fajar Maulana
 
 ### 💻 Informatics Student | Web Developer
 
