@@ -24,7 +24,7 @@ responsive web applications.
 ### 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
 ### 🐳 Tools & DevOps
