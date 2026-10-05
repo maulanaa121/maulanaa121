@@ -30,7 +30,7 @@ responsive web applications.
 ### 🐳 Tools & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,linux" />
 </p>
 
 ### 🎨 Design
